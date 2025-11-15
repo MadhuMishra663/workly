@@ -1,0 +1,5 @@
+export enum ESTATUS {
+  ACTIVE = "ACTIVE",
+  INACTIVE = "INACTIVE",
+  DELETED = "DELETED",
+}
